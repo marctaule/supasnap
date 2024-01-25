@@ -8,4 +8,5 @@ Available for Web, MacOS and Windows.
 
 [![Supasnap](https://supasnap.com/images/app-github/app-github1.jpg)](https://supasnap.com)
 [![Supasnap](https://supasnap.com/images/app-github/app-github2.jpg)](https://supasnap.com)
+[![Supasnap](https://supasnap.com/images/app-github/app-github4.jpg)](https://supasnap.com)
 [![Supasnap](https://supasnap.com/images/app-github/app-github3.jpg)](https://supasnap.com)
